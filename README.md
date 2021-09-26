@@ -5,4 +5,5 @@
   <p>src/componnets/Create - Adicionar produto</p>
   <p>src/componnets/Edit - Editar produto</p>
   <p>src/componnets/Show - Mostrar e deletar produto</p>
+  <p>src/App - Lista de produtos</p>
 </div>

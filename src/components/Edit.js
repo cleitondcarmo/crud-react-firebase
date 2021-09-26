@@ -1,14 +1,6 @@
 import React, { Component } from 'react';
 import firebase from '../Firebase';
 import { Link } from 'react-router-dom';
-/* const express = require('express')
-const app = express() */
-
-
-
-/* module.exports = {
-  add
-} */
 
 class Edit extends Component {
 

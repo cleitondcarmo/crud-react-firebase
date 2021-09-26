@@ -75,7 +75,7 @@ class Edit extends Component {
             </h3>
           </div>
           <div class="panel-body">
-            <h4><Link to={`/show/${this.state.key}`} class="btn btn-primary">produto List</Link></h4>
+            <h4><Link to={`/show/${this.state.key}`} class="btn btn-primary">produto</Link></h4>
             <form onSubmit={this.onSubmit}>
               <div class="form-group">
                 <label for="nome">Nome:</label>
